@@ -1,0 +1,5 @@
+Third Challenge: (MEDIUM)
+
+Question: I found some text lying around but I don't understand it... Here is the text 4e21d1a1b1fdd142fd7ee4a4cc41534c
+
+Hint: Cryptography.

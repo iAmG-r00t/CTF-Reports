@@ -1,0 +1,5 @@
+Second Challenge: (EASY)
+
+Question: Download the zip file and find the flag.
+
+Hint: Grep with an extra option.

@@ -1,0 +1,5 @@
+First Challenge: (EASY)
+
+Question: Find the flag from the Flag.txt file.
+
+Hint: grep.

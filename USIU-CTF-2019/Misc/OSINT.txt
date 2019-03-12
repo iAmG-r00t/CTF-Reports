@@ -1,0 +1,5 @@
+Second Challenge: (EASY)
+
+Question: Where am I? (Lat:-1.21481, Long:36.879365)
+
+Hint: Geolocation, GPS Coordinates.

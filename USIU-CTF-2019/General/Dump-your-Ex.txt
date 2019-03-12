@@ -1,0 +1,5 @@
+Third Challenge: (MEDIUM)
+
+Question: Download the zip file2 and do your magic, I know you can do it.
+
+Hint: look for an usual strings, think outside the box.

@@ -1,0 +1,5 @@
+First Challenge: (EASY)
+
+Question: Download the file (dot gif) and find the flag.
+
+Hint: Metadata and Cryptograpy.

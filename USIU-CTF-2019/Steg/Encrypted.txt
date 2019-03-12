@@ -1,0 +1,6 @@
+Second Challenge: (MEDIUM)
+
+Question: I have an encrypted file with goodies inside it, download it decrypt it for me 
+and the flag will be the password submit it using the flag format.
+
+Hint: Strings and Patience.
