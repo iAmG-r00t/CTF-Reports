@@ -32,4 +32,8 @@ Welcome, on this repo you will find CTF reports that I have done, you will tend 
 
 I would also like to say if you have some guidelines that you want to share please feel free to share with me.
 
+# Updates
+
+Here are some [updates](./update.md) on this repository.
+
 !! th33gr00t out !! 

@@ -1,4 +1,3 @@
-
                                                                         ,----,              
                                                       ,----..         ,/   .`|              
                                                      /   /   \      ,`   .'  :        .---. 
@@ -70,20 +69,3 @@
 				         `:/+osyhmNNNNNNNNNNNNNNM+    dNNNNNNNNNNNdo-                               
 				         `oydmNNNNNNNmmmmNd/sNmddh    mdddNhdNNNNNNNNNmdhyso+`                      
 				              ``--::://///  ```.-.    -////  ./ossosyyyysso/-                       
-				                                        
-				                                        
-				                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                                                           
-
