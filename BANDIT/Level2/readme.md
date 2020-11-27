@@ -22,7 +22,7 @@ cat spaces\ in\ this\ filename
 ```
 
 - The flag is at the home directory in the `spaces in this filename` file.
-**Note:** The *flag* is the `password` for the next level.
+- **Note:** The *flag* is the `password` for the next level.
 
 ### Conclusion / To Note
 

@@ -27,7 +27,7 @@ cat inhere/.hidden	# parse and output contents of .hidden file
 
 
 - The flag is at the home directory in the `.hidden` file.
-**Note:** The *flag* is the `password` for the next level.
+- **Note:** The *flag* is the `password` for the next level.
 
 ### Conclusion / To Note
 

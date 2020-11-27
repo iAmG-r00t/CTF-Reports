@@ -46,8 +46,14 @@ file ./inhere/*
 - `ASCII`: data type.
 
 
+- The simplest way of solving this using the find command should be this;
+
+```sh
+find ./inhere/ -type f -exec file {} + | grep ASCII	# This should be the right command
+```
+
 - The flag is at the home directory in the file that you will locate inside the `inhere` directory.
-**Note:** The *flag* is the `password` for the next level.
+- **Note:** The *flag* is the `password` for the next level.
 
 ### Conclusion / To Note
 

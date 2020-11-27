@@ -30,7 +30,7 @@ cat ./-
 ```
 
 - The flag is at the home directory in the `-` file.
-**Note:** The *flag* is the `password` for the next level.
+- **Note:** The *flag* is the `password` for the next level.
 
 ### Conclusion / To Note
 
