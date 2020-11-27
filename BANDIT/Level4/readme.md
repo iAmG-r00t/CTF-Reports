@@ -46,7 +46,7 @@ file ./inhere/*
 - `ASCII`: data type.
 
 
-- The flag is at the home directory in the `readme.md` file.
+- The flag is at the home directory in the file that you will locate inside the `inhere` directory.
 **Note:** The *flag* is the `password` for the next level.
 
 ### Conclusion / To Note
