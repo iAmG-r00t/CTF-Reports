@@ -1,8 +1,8 @@
 # :exclamation: UPDATEs :exclamation: 
 
-## OVERTHEWIRE - (OTW)
+## OVERTHEWIRE - (OTW) Quests
 
-> This is an update for the [BANDIT](./BANDIT/) CTF folder.
+> This is an update for the [BANDIT](./OTW/BANDIT/) CTF folder.
 
 - First of all, the old pdfs are still there in a new directory called [pdf0-26](./BANDIT/pdf_0-26)
 - I will be creating folders for each Level and within there you will find a `readme.md` file that will consist of notes and my thought process on how I solved that level.
