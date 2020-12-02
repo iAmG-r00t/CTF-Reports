@@ -28,4 +28,4 @@
 - Awesome stuff right here, check them out.
 
 **Quests**
-1. [Bandit](./BANDIT/README.md)
+1. [Bandit](./BANDIT/)
