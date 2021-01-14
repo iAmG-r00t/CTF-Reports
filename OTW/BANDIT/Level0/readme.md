@@ -28,4 +28,4 @@ ssh username@target -p port
 
 - So SSH is good, I have learnt alot about it and there is more to learn on SSHD configs and also config for SSH itself on the client side.
 - The biggest complaint/ISSUE I have with SSH is the termination of session when one is having a bad internet and maybe inactivity after along time.
-- But we are in 2020 so I would recommend for someone facing some issue have a look at [MOSH: the Mobile Shell](https://mosh.org/) :boom:. Just have a look at it use it and you will thank me later one day one time. 
+- But we are in 2020 so I would recommend for someone facing these issues to have a look at [MOSH: the Mobile Shell](https://mosh.org/) :boom:. Just have a look at it, use it and you will thank me later one day one time.

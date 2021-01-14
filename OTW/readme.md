@@ -28,4 +28,5 @@
 - Awesome stuff right here, check them out.
 
 **Quests**
-1. [Bandit](./BANDIT/)
+[x] [Bandit](./BANDIT/)
+[ ] [Natas](./NATAS/)
