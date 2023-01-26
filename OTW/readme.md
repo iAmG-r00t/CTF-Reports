@@ -30,3 +30,4 @@
 ## Quests
 - [x] [Bandit](./BANDIT/)
 - [ ] [Natas](./NATAS/)
+- [x] [Leviathan](./LEVIATHAN)
